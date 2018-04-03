@@ -123,6 +123,33 @@ depend:
 	$(MAKE) -f CMakeFiles/2018DataStructureBigWork.dir/build.make CMakeFiles/2018DataStructureBigWork.dir/build
 .PHONY : 2018DataStructureBigWork/fast
 
+SQLParser.o: SQLParser.cpp.o
+
+.PHONY : SQLParser.o
+
+# target to build an object file
+SQLParser.cpp.o:
+	$(MAKE) -f CMakeFiles/2018DataStructureBigWork.dir/build.make CMakeFiles/2018DataStructureBigWork.dir/SQLParser.cpp.o
+.PHONY : SQLParser.cpp.o
+
+SQLParser.i: SQLParser.cpp.i
+
+.PHONY : SQLParser.i
+
+# target to preprocess a source file
+SQLParser.cpp.i:
+	$(MAKE) -f CMakeFiles/2018DataStructureBigWork.dir/build.make CMakeFiles/2018DataStructureBigWork.dir/SQLParser.cpp.i
+.PHONY : SQLParser.cpp.i
+
+SQLParser.s: SQLParser.cpp.s
+
+.PHONY : SQLParser.s
+
+# target to generate assembly for a file
+SQLParser.cpp.s:
+	$(MAKE) -f CMakeFiles/2018DataStructureBigWork.dir/build.make CMakeFiles/2018DataStructureBigWork.dir/SQLParser.cpp.s
+.PHONY : SQLParser.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -150,6 +177,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/2018DataStructureBigWork.dir/build.make CMakeFiles/2018DataStructureBigWork.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+zwxStructure.o: zwxStructure.cpp.o
+
+.PHONY : zwxStructure.o
+
+# target to build an object file
+zwxStructure.cpp.o:
+	$(MAKE) -f CMakeFiles/2018DataStructureBigWork.dir/build.make CMakeFiles/2018DataStructureBigWork.dir/zwxStructure.cpp.o
+.PHONY : zwxStructure.cpp.o
+
+zwxStructure.i: zwxStructure.cpp.i
+
+.PHONY : zwxStructure.i
+
+# target to preprocess a source file
+zwxStructure.cpp.i:
+	$(MAKE) -f CMakeFiles/2018DataStructureBigWork.dir/build.make CMakeFiles/2018DataStructureBigWork.dir/zwxStructure.cpp.i
+.PHONY : zwxStructure.cpp.i
+
+zwxStructure.s: zwxStructure.cpp.s
+
+.PHONY : zwxStructure.s
+
+# target to generate assembly for a file
+zwxStructure.cpp.s:
+	$(MAKE) -f CMakeFiles/2018DataStructureBigWork.dir/build.make CMakeFiles/2018DataStructureBigWork.dir/zwxStructure.cpp.s
+.PHONY : zwxStructure.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -159,9 +213,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... 2018DataStructureBigWork"
+	@echo "... SQLParser.o"
+	@echo "... SQLParser.i"
+	@echo "... SQLParser.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... zwxStructure.o"
+	@echo "... zwxStructure.i"
+	@echo "... zwxStructure.s"
 .PHONY : help
 
 

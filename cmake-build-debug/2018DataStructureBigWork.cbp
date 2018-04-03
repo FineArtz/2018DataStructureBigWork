@@ -82,7 +82,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/peterzheng/GitHubProjects/2018DataStructureBigWork/SQLParser.cpp">
+			<Option target="2018DataStructureBigWork"/>
+		</Unit>
+		<Unit filename="/Users/peterzheng/GitHubProjects/2018DataStructureBigWork/SQLParser.h">
+			<Option target="2018DataStructureBigWork"/>
+		</Unit>
 		<Unit filename="/Users/peterzheng/GitHubProjects/2018DataStructureBigWork/main.cpp">
+			<Option target="2018DataStructureBigWork"/>
+		</Unit>
+		<Unit filename="/Users/peterzheng/GitHubProjects/2018DataStructureBigWork/zwxStructure.cpp">
+			<Option target="2018DataStructureBigWork"/>
+		</Unit>
+		<Unit filename="/Users/peterzheng/GitHubProjects/2018DataStructureBigWork/zwxStructure.h">
 			<Option target="2018DataStructureBigWork"/>
 		</Unit>
 		<Unit filename="/Users/peterzheng/GitHubProjects/2018DataStructureBigWork/CMakeLists.txt">

@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/2018DataStructureBigWork.dir/main.cpp.o"
+  "CMakeFiles/2018DataStructureBigWork.dir/zwxStructure.cpp.o"
+  "CMakeFiles/2018DataStructureBigWork.dir/SQLParser.cpp.o"
   "2018DataStructureBigWork.pdb"
   "2018DataStructureBigWork"
 )

@@ -66,7 +66,7 @@ CMAKE_BINARY_DIR = /Users/peterzheng/GitHubProjects/2018DataStructureBigWork/cma
 CMakeFiles/2018DataStructureBigWork.dir/all:
 	$(MAKE) -f CMakeFiles/2018DataStructureBigWork.dir/build.make CMakeFiles/2018DataStructureBigWork.dir/depend
 	$(MAKE) -f CMakeFiles/2018DataStructureBigWork.dir/build.make CMakeFiles/2018DataStructureBigWork.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/peterzheng/GitHubProjects/2018DataStructureBigWork/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target 2018DataStructureBigWork"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/peterzheng/GitHubProjects/2018DataStructureBigWork/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4 "Built target 2018DataStructureBigWork"
 .PHONY : CMakeFiles/2018DataStructureBigWork.dir/all
 
 # Include target in all.
@@ -76,7 +76,7 @@ all: CMakeFiles/2018DataStructureBigWork.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/2018DataStructureBigWork.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/peterzheng/GitHubProjects/2018DataStructureBigWork/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/peterzheng/GitHubProjects/2018DataStructureBigWork/cmake-build-debug/CMakeFiles 4
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2018DataStructureBigWork.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/peterzheng/GitHubProjects/2018DataStructureBigWork/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/2018DataStructureBigWork.dir/rule

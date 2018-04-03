@@ -3,4 +3,4 @@ project(2018DataStructureBigWork)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(2018DataStructureBigWork main.cpp)
+add_executable(2018DataStructureBigWork main.cpp zwxStructure.h zwxStructure.cpp SQLParser.cpp SQLParser.h)
