@@ -606,6 +606,11 @@ namespace zwxStructureBase {
 
 
     };
+
+    template<typename T>
+    class BPlusTree{
+        
+    };
 }
 
 
