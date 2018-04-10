@@ -81,69 +81,43 @@ CMakeFiles/2018DataStructureBigWork.dir/main.cpp.o.provides: CMakeFiles/2018Data
 CMakeFiles/2018DataStructureBigWork.dir/main.cpp.o.provides.build: CMakeFiles/2018DataStructureBigWork.dir/main.cpp.o
 
 
-CMakeFiles/2018DataStructureBigWork.dir/zwxStructure.cpp.o: CMakeFiles/2018DataStructureBigWork.dir/flags.make
-CMakeFiles/2018DataStructureBigWork.dir/zwxStructure.cpp.o: ../zwxStructure.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/peterzheng/GitHubProjects/2018DataStructureBigWork/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/2018DataStructureBigWork.dir/zwxStructure.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/2018DataStructureBigWork.dir/zwxStructure.cpp.o -c /Users/peterzheng/GitHubProjects/2018DataStructureBigWork/zwxStructure.cpp
+CMakeFiles/2018DataStructureBigWork.dir/Kernel.cpp.o: CMakeFiles/2018DataStructureBigWork.dir/flags.make
+CMakeFiles/2018DataStructureBigWork.dir/Kernel.cpp.o: ../Kernel.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/peterzheng/GitHubProjects/2018DataStructureBigWork/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/2018DataStructureBigWork.dir/Kernel.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/2018DataStructureBigWork.dir/Kernel.cpp.o -c /Users/peterzheng/GitHubProjects/2018DataStructureBigWork/Kernel.cpp
 
-CMakeFiles/2018DataStructureBigWork.dir/zwxStructure.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/2018DataStructureBigWork.dir/zwxStructure.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/peterzheng/GitHubProjects/2018DataStructureBigWork/zwxStructure.cpp > CMakeFiles/2018DataStructureBigWork.dir/zwxStructure.cpp.i
+CMakeFiles/2018DataStructureBigWork.dir/Kernel.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/2018DataStructureBigWork.dir/Kernel.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/peterzheng/GitHubProjects/2018DataStructureBigWork/Kernel.cpp > CMakeFiles/2018DataStructureBigWork.dir/Kernel.cpp.i
 
-CMakeFiles/2018DataStructureBigWork.dir/zwxStructure.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/2018DataStructureBigWork.dir/zwxStructure.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/peterzheng/GitHubProjects/2018DataStructureBigWork/zwxStructure.cpp -o CMakeFiles/2018DataStructureBigWork.dir/zwxStructure.cpp.s
+CMakeFiles/2018DataStructureBigWork.dir/Kernel.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/2018DataStructureBigWork.dir/Kernel.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/peterzheng/GitHubProjects/2018DataStructureBigWork/Kernel.cpp -o CMakeFiles/2018DataStructureBigWork.dir/Kernel.cpp.s
 
-CMakeFiles/2018DataStructureBigWork.dir/zwxStructure.cpp.o.requires:
+CMakeFiles/2018DataStructureBigWork.dir/Kernel.cpp.o.requires:
 
-.PHONY : CMakeFiles/2018DataStructureBigWork.dir/zwxStructure.cpp.o.requires
+.PHONY : CMakeFiles/2018DataStructureBigWork.dir/Kernel.cpp.o.requires
 
-CMakeFiles/2018DataStructureBigWork.dir/zwxStructure.cpp.o.provides: CMakeFiles/2018DataStructureBigWork.dir/zwxStructure.cpp.o.requires
-	$(MAKE) -f CMakeFiles/2018DataStructureBigWork.dir/build.make CMakeFiles/2018DataStructureBigWork.dir/zwxStructure.cpp.o.provides.build
-.PHONY : CMakeFiles/2018DataStructureBigWork.dir/zwxStructure.cpp.o.provides
+CMakeFiles/2018DataStructureBigWork.dir/Kernel.cpp.o.provides: CMakeFiles/2018DataStructureBigWork.dir/Kernel.cpp.o.requires
+	$(MAKE) -f CMakeFiles/2018DataStructureBigWork.dir/build.make CMakeFiles/2018DataStructureBigWork.dir/Kernel.cpp.o.provides.build
+.PHONY : CMakeFiles/2018DataStructureBigWork.dir/Kernel.cpp.o.provides
 
-CMakeFiles/2018DataStructureBigWork.dir/zwxStructure.cpp.o.provides.build: CMakeFiles/2018DataStructureBigWork.dir/zwxStructure.cpp.o
-
-
-CMakeFiles/2018DataStructureBigWork.dir/SQLParser.cpp.o: CMakeFiles/2018DataStructureBigWork.dir/flags.make
-CMakeFiles/2018DataStructureBigWork.dir/SQLParser.cpp.o: ../SQLParser.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/peterzheng/GitHubProjects/2018DataStructureBigWork/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/2018DataStructureBigWork.dir/SQLParser.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/2018DataStructureBigWork.dir/SQLParser.cpp.o -c /Users/peterzheng/GitHubProjects/2018DataStructureBigWork/SQLParser.cpp
-
-CMakeFiles/2018DataStructureBigWork.dir/SQLParser.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/2018DataStructureBigWork.dir/SQLParser.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/peterzheng/GitHubProjects/2018DataStructureBigWork/SQLParser.cpp > CMakeFiles/2018DataStructureBigWork.dir/SQLParser.cpp.i
-
-CMakeFiles/2018DataStructureBigWork.dir/SQLParser.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/2018DataStructureBigWork.dir/SQLParser.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/peterzheng/GitHubProjects/2018DataStructureBigWork/SQLParser.cpp -o CMakeFiles/2018DataStructureBigWork.dir/SQLParser.cpp.s
-
-CMakeFiles/2018DataStructureBigWork.dir/SQLParser.cpp.o.requires:
-
-.PHONY : CMakeFiles/2018DataStructureBigWork.dir/SQLParser.cpp.o.requires
-
-CMakeFiles/2018DataStructureBigWork.dir/SQLParser.cpp.o.provides: CMakeFiles/2018DataStructureBigWork.dir/SQLParser.cpp.o.requires
-	$(MAKE) -f CMakeFiles/2018DataStructureBigWork.dir/build.make CMakeFiles/2018DataStructureBigWork.dir/SQLParser.cpp.o.provides.build
-.PHONY : CMakeFiles/2018DataStructureBigWork.dir/SQLParser.cpp.o.provides
-
-CMakeFiles/2018DataStructureBigWork.dir/SQLParser.cpp.o.provides.build: CMakeFiles/2018DataStructureBigWork.dir/SQLParser.cpp.o
+CMakeFiles/2018DataStructureBigWork.dir/Kernel.cpp.o.provides.build: CMakeFiles/2018DataStructureBigWork.dir/Kernel.cpp.o
 
 
 # Object files for target 2018DataStructureBigWork
 2018DataStructureBigWork_OBJECTS = \
 "CMakeFiles/2018DataStructureBigWork.dir/main.cpp.o" \
-"CMakeFiles/2018DataStructureBigWork.dir/zwxStructure.cpp.o" \
-"CMakeFiles/2018DataStructureBigWork.dir/SQLParser.cpp.o"
+"CMakeFiles/2018DataStructureBigWork.dir/Kernel.cpp.o"
 
 # External object files for target 2018DataStructureBigWork
 2018DataStructureBigWork_EXTERNAL_OBJECTS =
 
 2018DataStructureBigWork: CMakeFiles/2018DataStructureBigWork.dir/main.cpp.o
-2018DataStructureBigWork: CMakeFiles/2018DataStructureBigWork.dir/zwxStructure.cpp.o
-2018DataStructureBigWork: CMakeFiles/2018DataStructureBigWork.dir/SQLParser.cpp.o
+2018DataStructureBigWork: CMakeFiles/2018DataStructureBigWork.dir/Kernel.cpp.o
 2018DataStructureBigWork: CMakeFiles/2018DataStructureBigWork.dir/build.make
 2018DataStructureBigWork: CMakeFiles/2018DataStructureBigWork.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/peterzheng/GitHubProjects/2018DataStructureBigWork/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable 2018DataStructureBigWork"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/peterzheng/GitHubProjects/2018DataStructureBigWork/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable 2018DataStructureBigWork"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/2018DataStructureBigWork.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -152,8 +126,7 @@ CMakeFiles/2018DataStructureBigWork.dir/build: 2018DataStructureBigWork
 .PHONY : CMakeFiles/2018DataStructureBigWork.dir/build
 
 CMakeFiles/2018DataStructureBigWork.dir/requires: CMakeFiles/2018DataStructureBigWork.dir/main.cpp.o.requires
-CMakeFiles/2018DataStructureBigWork.dir/requires: CMakeFiles/2018DataStructureBigWork.dir/zwxStructure.cpp.o.requires
-CMakeFiles/2018DataStructureBigWork.dir/requires: CMakeFiles/2018DataStructureBigWork.dir/SQLParser.cpp.o.requires
+CMakeFiles/2018DataStructureBigWork.dir/requires: CMakeFiles/2018DataStructureBigWork.dir/Kernel.cpp.o.requires
 
 .PHONY : CMakeFiles/2018DataStructureBigWork.dir/requires
 

@@ -4,9 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/peterzheng/GitHubProjects/2018DataStructureBigWork/SQLParser.cpp" "/Users/peterzheng/GitHubProjects/2018DataStructureBigWork/cmake-build-debug/CMakeFiles/2018DataStructureBigWork.dir/SQLParser.cpp.o"
+  "/Users/peterzheng/GitHubProjects/2018DataStructureBigWork/Kernel.cpp" "/Users/peterzheng/GitHubProjects/2018DataStructureBigWork/cmake-build-debug/CMakeFiles/2018DataStructureBigWork.dir/Kernel.cpp.o"
   "/Users/peterzheng/GitHubProjects/2018DataStructureBigWork/main.cpp" "/Users/peterzheng/GitHubProjects/2018DataStructureBigWork/cmake-build-debug/CMakeFiles/2018DataStructureBigWork.dir/main.cpp.o"
-  "/Users/peterzheng/GitHubProjects/2018DataStructureBigWork/zwxStructure.cpp" "/Users/peterzheng/GitHubProjects/2018DataStructureBigWork/cmake-build-debug/CMakeFiles/2018DataStructureBigWork.dir/zwxStructure.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
