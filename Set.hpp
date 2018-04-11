@@ -1,5 +1,9 @@
-#ifndef Set_HPP
-#define Set_HPP
+// 
+// Created by FineArtz on 2018/04/10
+//
+
+#ifndef INC_2018DATASTRUCTUREBIGWORK_SET_HPP
+#define INC_2018DATASTRUCTUREBIGWORK_SET_HPP
 
 // only for std::less<T>
 #include <functional>
@@ -271,9 +275,9 @@ protected:
     _TreeNode *_search(const Key &x) const{
         _TreeNode *p = root;
         while (p != nullptr){
-            if (comp(x, p->key.first))
+            if (comp(x, p->key))
                 p = p->l;
-            else if (comp(p->key.first, x))
+            else if (comp(p->key, x))
                 p = p->r;
             else
                 return p;
@@ -300,11 +304,11 @@ protected:
         int cmp = 0;
         do{
             p = t;
-            if (comp(x.first, t->key.first)){
+            if (comp(x, t->key)){
                 t = t->l;
                 cmp = -1;
             }
-            else if (comp(t->key.first, x.first)){
+            else if (comp(t->key, x)){
                 t = t->r;
                 cmp = 1;
             }
